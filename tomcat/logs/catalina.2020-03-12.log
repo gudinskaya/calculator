@@ -1,0 +1,227 @@
+12-Mar-2020 23:15:20.395 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.19
+12-Mar-2020 23:15:20.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 12 2019 14:22:48 UTC
+12-Mar-2020 23:15:20.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.19.0
+12-Mar-2020 23:15:20.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+12-Mar-2020 23:15:20.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.6
+12-Mar-2020 23:15:20.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+12-Mar-2020 23:15:20.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home
+12-Mar-2020 23:15:20.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.2+9-LTS
+12-Mar-2020 23:15:20.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Mar-2020 23:15:20.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat
+12-Mar-2020 23:15:20.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat
+12-Mar-2020 23:15:20.404 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Mar-2020 23:15:20.404 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Mar-2020 23:15:20.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Mar-2020 23:15:20.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/conf/logging.properties
+12-Mar-2020 23:15:20.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Mar-2020 23:15:20.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Mar-2020 23:15:20.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Mar-2020 23:15:20.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-Mar-2020 23:15:20.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Mar-2020 23:15:20.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat
+12-Mar-2020 23:15:20.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat
+12-Mar-2020 23:15:20.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/temp
+12-Mar-2020 23:15:20.414 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/admin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+12-Mar-2020 23:15:20.463 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:15:20.501 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:15:20.505 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [584] milliseconds
+12-Mar-2020 23:15:20.563 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Mar-2020 23:15:20.563 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.19]
+12-Mar-2020 23:15:20.570 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/webapps/lab6]
+12-Mar-2020 23:15:21.821 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:15:21.878 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/webapps/lab6] has finished in [1 307] ms
+12-Mar-2020 23:15:21.878 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/webapps/docs]
+12-Mar-2020 23:15:22.029 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:15:22.032 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/webapps/docs] has finished in [154] ms
+12-Mar-2020 23:15:22.032 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/webapps/manager]
+12-Mar-2020 23:15:22.203 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:15:22.209 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/webapps/manager] has finished in [177] ms
+12-Mar-2020 23:15:22.210 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/webapps/examples]
+12-Mar-2020 23:15:22.475 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:15:22.491 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/webapps/examples] has finished in [281] ms
+12-Mar-2020 23:15:22.492 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/webapps/ROOT]
+12-Mar-2020 23:15:22.634 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:15:22.637 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/webapps/ROOT] has finished in [146] ms
+12-Mar-2020 23:15:22.637 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/webapps/host-manager]
+12-Mar-2020 23:15:22.775 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:15:22.778 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab6/tomcat/webapps/host-manager] has finished in [141] ms
+12-Mar-2020 23:15:22.783 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:15:22.791 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:15:22.794 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2 288] milliseconds
+12-Mar-2020 23:24:29.163 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.19
+12-Mar-2020 23:24:29.166 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 12 2019 14:22:48 UTC
+12-Mar-2020 23:24:29.166 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.19.0
+12-Mar-2020 23:24:29.166 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+12-Mar-2020 23:24:29.167 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.6
+12-Mar-2020 23:24:29.167 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+12-Mar-2020 23:24:29.167 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home
+12-Mar-2020 23:24:29.167 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.2+9-LTS
+12-Mar-2020 23:24:29.167 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Mar-2020 23:24:29.167 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat
+12-Mar-2020 23:24:29.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat
+12-Mar-2020 23:24:29.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Mar-2020 23:24:29.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Mar-2020 23:24:29.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Mar-2020 23:24:29.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/conf/logging.properties
+12-Mar-2020 23:24:29.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Mar-2020 23:24:29.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Mar-2020 23:24:29.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Mar-2020 23:24:29.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-Mar-2020 23:24:29.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Mar-2020 23:24:29.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat
+12-Mar-2020 23:24:29.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat
+12-Mar-2020 23:24:29.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/temp
+12-Mar-2020 23:24:29.181 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/admin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+12-Mar-2020 23:24:29.227 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:24:29.258 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:24:29.261 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [524] milliseconds
+12-Mar-2020 23:24:29.312 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Mar-2020 23:24:29.313 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.19]
+12-Mar-2020 23:24:29.321 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/lab6]
+12-Mar-2020 23:24:30.652 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:24:30.708 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/lab6] has finished in [1 387] ms
+12-Mar-2020 23:24:30.709 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/docs]
+12-Mar-2020 23:24:30.862 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:24:30.864 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/docs] has finished in [155] ms
+12-Mar-2020 23:24:30.865 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/manager]
+12-Mar-2020 23:24:31.018 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:24:31.026 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/manager] has finished in [161] ms
+12-Mar-2020 23:24:31.027 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/examples]
+12-Mar-2020 23:24:31.277 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:24:31.293 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/examples] has finished in [266] ms
+12-Mar-2020 23:24:31.293 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/ROOT]
+12-Mar-2020 23:24:31.438 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:24:31.441 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/ROOT] has finished in [148] ms
+12-Mar-2020 23:24:31.441 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/host-manager]
+12-Mar-2020 23:24:31.574 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:24:31.577 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/host-manager] has finished in [135] ms
+12-Mar-2020 23:24:31.582 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:24:31.591 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:24:31.594 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2 332] milliseconds
+12-Mar-2020 23:25:02.414 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:25:02.417 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:25:02.423 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Mar-2020 23:25:02.437 WARNING [Thread-4] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [lab6] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+12-Mar-2020 23:25:02.438 WARNING [Thread-4] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [lab6] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+12-Mar-2020 23:25:02.470 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:25:02.474 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:25:02.476 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:25:02.477 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:57:40.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.19
+12-Mar-2020 23:57:40.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 12 2019 14:22:48 UTC
+12-Mar-2020 23:57:40.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.19.0
+12-Mar-2020 23:57:40.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+12-Mar-2020 23:57:40.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.6
+12-Mar-2020 23:57:40.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+12-Mar-2020 23:57:40.104 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home
+12-Mar-2020 23:57:40.104 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.2+9-LTS
+12-Mar-2020 23:57:40.104 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Mar-2020 23:57:40.104 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat
+12-Mar-2020 23:57:40.104 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat
+12-Mar-2020 23:57:40.107 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Mar-2020 23:57:40.107 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Mar-2020 23:57:40.108 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Mar-2020 23:57:40.114 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/conf/logging.properties
+12-Mar-2020 23:57:40.114 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Mar-2020 23:57:40.114 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Mar-2020 23:57:40.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Mar-2020 23:57:40.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-Mar-2020 23:57:40.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Mar-2020 23:57:40.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat
+12-Mar-2020 23:57:40.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat
+12-Mar-2020 23:57:40.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/temp
+12-Mar-2020 23:57:40.116 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/admin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+12-Mar-2020 23:57:40.160 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:57:40.194 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:57:40.197 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [500] milliseconds
+12-Mar-2020 23:57:40.243 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Mar-2020 23:57:40.243 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.19]
+12-Mar-2020 23:57:40.249 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/lab6]
+12-Mar-2020 23:57:41.076 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:57:41.119 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/lab6] has finished in [870] ms
+12-Mar-2020 23:57:41.119 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/docs]
+12-Mar-2020 23:57:41.263 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:57:41.265 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/docs] has finished in [146] ms
+12-Mar-2020 23:57:41.265 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/manager]
+12-Mar-2020 23:57:41.403 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:57:41.408 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/manager] has finished in [143] ms
+12-Mar-2020 23:57:41.408 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/examples]
+12-Mar-2020 23:57:41.627 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:57:41.639 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/examples] has finished in [231] ms
+12-Mar-2020 23:57:41.639 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/ROOT]
+12-Mar-2020 23:57:41.776 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:57:41.778 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/ROOT] has finished in [139] ms
+12-Mar-2020 23:57:41.778 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/host-manager]
+12-Mar-2020 23:57:41.916 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:57:41.918 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/host-manager] has finished in [140] ms
+12-Mar-2020 23:57:41.923 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:57:41.929 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:57:41.932 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1 734] milliseconds
+12-Mar-2020 23:57:53.566 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:57:53.576 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:57:53.583 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Mar-2020 23:57:53.596 WARNING [Thread-4] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [lab6] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+12-Mar-2020 23:57:53.597 WARNING [Thread-4] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [lab6] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+12-Mar-2020 23:57:53.630 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:57:53.634 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:57:53.637 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:57:53.637 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:59:25.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.19
+12-Mar-2020 23:59:25.864 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 12 2019 14:22:48 UTC
+12-Mar-2020 23:59:25.864 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.19.0
+12-Mar-2020 23:59:25.865 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+12-Mar-2020 23:59:25.865 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.6
+12-Mar-2020 23:59:25.865 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+12-Mar-2020 23:59:25.865 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home
+12-Mar-2020 23:59:25.865 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.2+9-LTS
+12-Mar-2020 23:59:25.865 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Mar-2020 23:59:25.865 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat
+12-Mar-2020 23:59:25.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat
+12-Mar-2020 23:59:25.868 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Mar-2020 23:59:25.868 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Mar-2020 23:59:25.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Mar-2020 23:59:25.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/conf/logging.properties
+12-Mar-2020 23:59:25.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Mar-2020 23:59:25.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Mar-2020 23:59:25.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Mar-2020 23:59:25.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-Mar-2020 23:59:25.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Mar-2020 23:59:25.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat
+12-Mar-2020 23:59:25.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat
+12-Mar-2020 23:59:25.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/temp
+12-Mar-2020 23:59:25.876 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/admin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+12-Mar-2020 23:59:25.917 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:59:25.949 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:59:25.953 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [480] milliseconds
+12-Mar-2020 23:59:26.000 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Mar-2020 23:59:26.000 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.19]
+12-Mar-2020 23:59:26.007 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/lab6]
+12-Mar-2020 23:59:26.879 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:59:26.933 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/lab6] has finished in [926] ms
+12-Mar-2020 23:59:26.933 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/docs]
+12-Mar-2020 23:59:27.092 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:59:27.095 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/docs] has finished in [162] ms
+12-Mar-2020 23:59:27.096 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/manager]
+12-Mar-2020 23:59:27.258 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:59:27.265 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/manager] has finished in [169] ms
+12-Mar-2020 23:59:27.265 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/examples]
+12-Mar-2020 23:59:27.523 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:59:27.541 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/examples] has finished in [275] ms
+12-Mar-2020 23:59:27.541 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/ROOT]
+12-Mar-2020 23:59:27.691 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:59:27.694 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/ROOT] has finished in [152] ms
+12-Mar-2020 23:59:27.694 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/host-manager]
+12-Mar-2020 23:59:27.831 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Mar-2020 23:59:27.834 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/admin/Documents/docs/labs/sem4/org/anngudin/lab1-pism/tomcat/webapps/host-manager] has finished in [140] ms
+12-Mar-2020 23:59:27.839 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:59:27.847 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:59:27.850 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1 897] milliseconds
+12-Mar-2020 23:59:58.355 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:59:58.358 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:59:58.366 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Mar-2020 23:59:58.380 WARNING [Thread-4] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [lab6] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+12-Mar-2020 23:59:58.381 WARNING [Thread-4] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [lab6] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+12-Mar-2020 23:59:58.413 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:59:58.416 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+12-Mar-2020 23:59:58.419 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-Mar-2020 23:59:58.420 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
